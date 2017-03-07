@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "This program will not know how to buzz"
   spec.description   = "This program will make the noises of a confused bee, that is trying to buzz but not sure how"
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/JackMarx/dum_bee.git"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
